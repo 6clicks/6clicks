@@ -6,5 +6,5 @@
 I am webdesigner for the past 20 years. <br>
 I also love to code has a front-end or like i love to said **fullstack designer** <br>
 **WordPress** enthousiast <br>
-I love **podcast** you can listen (in French) my podcast about WordPress -> [https://wp2.ch](WP2) <br>
-Follow me on twitter at [https://twitter.com/6_clicks]_(6_clicks)
+I love **podcast** you can listen (in French) my podcast about WordPress -> [WP2](https://wp2.ch) <br>
+Follow me on twitter at [6_clicks](https://twitter.com/6_clicks)<br>
